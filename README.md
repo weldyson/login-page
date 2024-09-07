@@ -1,6 +1,20 @@
-# LoginPage
+# Fullstack Login App - Angular 17 + Java Spring
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.9.
+## Description
+
+This project is a **fullstack** login application, with a **frontend** developed in Angular 17 and a **backend** using Java Spring with **Spring Security** and **JWT** for authentication.
+
+### Technologies used:
+- **Frontend**: Angular 17
+- **Backend**: Java Spring (Spring Security + JWT)
+
+---
+
+## Frontend
+
+### LoginPage
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
 
 ## Development server
 
@@ -25,3 +39,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+---
+
+## Backend
+
+The backend was developed with Java Spring and includes **Spring Security** for authentication and **JWT (JSON Web Token)** for token management.
